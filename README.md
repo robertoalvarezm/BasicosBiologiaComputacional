@@ -30,6 +30,8 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
   - Guarda y versiona tus proyectos.  
   - Facilita el trabajo colaborativo y la ciencia reproducible.  
   - Integra tu **RProject** o notebook de Python en un repositorio.
+- **Pythoon y R**
+  -[An introduction to Python for R users](https://occasionaldivergences.com/posts/python-intro/)      
 
 ---
 
@@ -52,15 +54,24 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
 
 ---
 
-## 📝 Lecturas recomendadas (*PLOS Computational Biology*)  
+## 📝 Lecturas recomendadas (*PLOS Computational Biology*)  y otros similares
 
 La serie **“Ten Simple Rules”** es un clásico de iniciación para toda persona en bioinformática y ciencia computacional:  
 
 - [Ten Simple Rules Collection](https://collections.plos.org/ten-simple-rules/)  
-- Ejemplos útiles:  
+- Ejemplos útiles:
+  - [Ten simple rules for teaching an introduction to R](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012018)
+  - [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005871)
   - [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)  
   - [Ten Simple Rules for Effective Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)  
   - [Ten Simple Rules for Getting Help from Online Scientific Communities](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002202)
+  - [Ten simple rules to colorize biological data visualization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259)
+  - [Ten quick tips for machine learning in computational biology](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3)
+  - [Ten quick tips for avoiding pitfalls in multi-omics data integration analyses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011224)
+  - [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1000424)
+  - [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005510)
+  - [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001745)
+  - [Computational Genomics with R](https://compgenomr.github.io/book/)
 
 ---
 
