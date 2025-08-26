@@ -1,7 +1,7 @@
 # 🖥️ Laboratorio de Cómputo en Bioinformática  
-### Recursos introductorios para Licenciatura y Posgrado
+### Recursos introductorios para licenciatura y posgrado
 
-Este espacio reúne materiales esenciales para quienes se inician en la bioinformática.  
+Este espacio reúne materiales esenciales para quienes se inician en la bioinformática y en general la Bioología Computacional 
 Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomendadas para desarrollar habilidades en programación, análisis de datos y buenas prácticas.
 
 ---
@@ -16,7 +16,7 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
 
 - **RProjects (Estructura de proyectos en RStudio)**  
   - Usa la opción **“Nuevo proyecto”** en RStudio para organizar datos, scripts y resultados.  
-  - Mantén carpetas claras: `RawData/`, `Scripts/`, `Results/`, `Plots/`, `ProcessedData/`.
+  - Mantén carpetas claras: `01_RawData/`, `02_Scripts/`, `03_Results/`, `04_Plots/`, `05_ProcessedData/`.
 
 - **Python**  
   👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
