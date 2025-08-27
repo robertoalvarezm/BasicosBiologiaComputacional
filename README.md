@@ -37,6 +37,8 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
 
 ## 📚 Cursos y tutoriales gratuitos
 
+-  **Notas de R básico**
+    [Mis notas de R](https://robertoalvarezm.github.io/Bioinformatica_R_Basico_Notas/)
 - **R for Data Science (Hadley Wickham & Garrett Grolemund)**  
   👉 [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 
