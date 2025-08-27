@@ -94,6 +94,7 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
   -  [How to give a good talk](https://www.sciencedirect.com/science/article/pii/S1097276509007424#:~:text=First%2C%20make%20eye%20contact%20with,we%20already%20anticipate%20the%20question.)
   -  [How To Choose a Good Scientific Problem](https://www.sciencedirect.com/science/article/pii/S1097276509006418)
   -  [How to write an introdcution](https://academic-englishuk.com/write-academic-introduction/)
+  -  [Ten Simple Rules for Making Good Oral Presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077)
   
 ## Ambientes saludables en el laboratorio
 
