@@ -100,6 +100,9 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
 ---
 ## ⚠️ Buenas prácticas y advertencias  
 
+- **Friends Don’t Let Friends Make Bad Graphs**  
+  👉 [Friends Don’t Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
+
 - **Friends Don’t Let Friends Use Excel for Genomics**  
   👉 [https://doi.org/10.1371/journal.pcbi.1002196](https://doi.org/10.1371/journal.pcbi.1002196)
 
