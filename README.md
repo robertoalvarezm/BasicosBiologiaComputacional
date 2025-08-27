@@ -67,6 +67,13 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
   - [Ten Simple Rules for Getting Help from Online Scientific Communities](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002202)
   - [Ten simple rules to colorize biological data visualization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259)
   - [Ten quick tips for machine learning in computational biology](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3)
+  - [Ten Simple Rules for a Bioinformatics Journal Club](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004526)
+  - [Ten Simple Rules for Developing a Short Bioinformatics Training Course](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009218)
+  - [Ten simple rules for documenting scientific software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)
+  - [Ten Simple Rules for Taking Advantage of Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+  - [Ten simple rules for providing effective bioinformatics research support](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009218)
+  - [Ten simple rules for teaching an introduction to R](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012018)
+  - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
   - [Ten quick tips for avoiding pitfalls in multi-omics data integration analyses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011224)
   - [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1000424)
   - [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005510)
@@ -74,7 +81,21 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
   - [Computational Genomics with R](https://compgenomr.github.io/book/)
 
 ---
+## Consejos generales
 
+  -  [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
+  -  [Ten Simple Rules for Aspiring Scientists in a Low-Income Country](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000024)
+  -  [Ten simple rules for developing good reading habits during graduate school and beyond](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467)
+  -  [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+  -  [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+  -  [Ten Simple Rules for Getting Ahead as a Computational Biologist in Academia ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)
+  
+## Ambientes saludables en el laboratorio
+
+  -  [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010673)
+  -  [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914)
+  
+---
 ## ⚠️ Buenas prácticas y advertencias  
 
 - **Friends Don’t Let Friends Use Excel for Genomics**  
