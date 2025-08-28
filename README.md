@@ -132,7 +132,11 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
   👉 [https://ropensci.org/](https://ropensci.org/)
 
 ---
+## NGS
 
+- [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
+- [RNA-seq: the teenage years](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)
+---
 ## 📌 Recomendaciones finales
 
 1. Organiza tu trabajo en **RProjects**.  
