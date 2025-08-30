@@ -132,10 +132,16 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
   👉 [https://ropensci.org/](https://ropensci.org/)
 
 ---
-## NGS
+## 🧬 NGS
 
 - [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
 - [RNA-seq: the teenage years](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)
+---
+## Curso especializados
+
+-  [Introduction to Applied bioinformatics](https://readiab.org/introduction.html)
+-  [Introduction to Bioinformatics and Computational Biology[](https://liulab-dfci.github.io/bioinfo-combio/)
+-  [Modern Satistics for Modern Biology](https://web.stanford.edu/class/bios221/book/)
 ---
 ## 📌 Recomendaciones finales
 
