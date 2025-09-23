@@ -140,6 +140,10 @@ La serie **“Ten Simple Rules”** es un clásico de iniciación para toda pers
 -  [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/)
 -  [Modern Satistics for Modern Biology](https://web.stanford.edu/class/bios221/book/)
 ---
+## Inglés
+
+-  [A Practical Guide to Academic Writing for International Students](https://www.routledge.com/rsc/downloads/A_Practical_Guide_to_Academic_Writing_for_International_Students-A_Routledge_FreeBook-_FINAL_VERSION_.pdf)
+---
 ## 📌 Recomendaciones finales
 
 1. Organiza tu trabajo en **RProjects**.  
