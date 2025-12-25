@@ -54,6 +54,9 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
 - **Bioconductor (R para genómica y transcriptómica)**  
   👉 [https://www.bioconductor.org/](https://www.bioconductor.org/)
 
+-  **Aprende R y python de forma simultanea para ciencia de datos**
+  👉 [https://www.anotherbookondatascience.com](https://www.anotherbookondatascience.com)
+
 ---
 
 ## 📝 Lecturas recomendadas (*PLOS Computational Biology*)  y otros similares
