@@ -55,6 +55,7 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
   👉 [https://www.bioconductor.org/](https://www.bioconductor.org/)
 
 -  **Aprende R y python de forma simultanea para ciencia de datos**
+  
   👉 [https://www.anotherbookondatascience.com](https://www.anotherbookondatascience.com)
 
 ---
