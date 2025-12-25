@@ -56,7 +56,7 @@ Los recursos incluyen software, cursos en línea, tutoriales y lecturas recomend
 
 -  **Aprende R y python de forma simultanea para ciencia de datos**
   
-  👉 [https://www.anotherbookondatascience.com](https://www.anotherbookondatascience.com)
+     👉 [https://www.anotherbookondatascience.com](https://www.anotherbookondatascience.com)
 
 ---
 
